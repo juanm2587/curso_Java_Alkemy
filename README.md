@@ -1,2 +1,6 @@
-Ejercicios curso Alkemy
-una guia de ejercicios basico de todo el curso +el proyecto final
+# Ejercicios curso Alkemy
+
+## Introducción
+Este es un conjunto de ejercicios básicos diseñados para complementar el curso de Alkemy. Además, se incluye el detalle del proyecto final para su referencia.
+
+
